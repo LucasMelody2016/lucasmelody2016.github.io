@@ -1682,11 +1682,11 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color: #ffffff;
+			color: #ffff00;
 		}
 
 	strong, b {
-		color: #ffff00;
+		color: #ffffff;
 		font-weight: bold;
 	}
 
